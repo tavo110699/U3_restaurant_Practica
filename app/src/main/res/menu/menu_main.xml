@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/idMenuMainSearch"
+        android:title="Buscar"/>
+    <item
+        android:id="@+id/idMenuMainContact"
+        android:title="Contacto"/>
+    <item
+        android:id="@+id/idMenuMainAbout"
+        android:title="Acerca de"/>
+    <item
+        android:id="@+id/idMenuMainExit"
+        android:title="Salir de la app"/>
+
+</menu>
